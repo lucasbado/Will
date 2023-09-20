@@ -8,13 +8,7 @@ function Home() {
         <div className="Home">
             <div className='Body'>
                 <img className='Background' src={BkgHome} alt="" />
-                <button className='BtnIniciar'>
-                    <a href='#'><span>
-                        Iniciar
-
-                    </span>
-                    </a>
-                </button>
+               
             </div>
         </div>
     );
