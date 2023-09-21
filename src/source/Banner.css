@@ -1,0 +1,46 @@
+#carousel{
+    display: flex;
+    flex-direction: column;
+    object-fit: cover;
+    
+}
+#carouselExampleFade{
+    background-color: rgb(98, 106, 116);
+    
+}
+
+#carousel-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+#card{
+    display: flex;
+    
+}
+#Text {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(98, 106, 116);
+    
+    
+   
+}
+#txt {
+
+    padding: 8vh;
+    font-family:'Times New Roman', Times, serif ;  
+    font-size :8vw;
+    color:#053677;
+   
+}
+#para{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:3.5vw;
+        
+}
